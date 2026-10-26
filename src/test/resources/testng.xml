@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Practice Test Automation">
+    <test name="Website practice scenarios">
+        <classes>
+            <class name="com.practicetestautomation.tests.PracticeTestAutomationTests"/>
+        </classes>
+    </test>
+</suite>

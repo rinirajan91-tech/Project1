@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-23T11:24:05 HKT" name="Practice Test Automation" finished-at="2026-10-23T11:24:28 HKT" duration-ms="23038">
+    <groups>
+    </groups>
+    <test started-at="2026-10-23T11:24:05 HKT" name="Website practice scenarios" finished-at="2026-10-23T11:24:28 HKT" duration-ms="23038">
+      <class name="com.practicetestautomation.tests.PracticeTestAutomationTests">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.practicetestautomation.tests.PracticeTestAutomationTests@5f058f00]" started-at="2026-10-23T11:24:05 HKT" name="startBrowser" finished-at="2026-10-23T11:24:07 HKT" duration-ms="2471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="homePageCanBeScrolledToTheEnd()[pri:0, instance:com.practicetestautomation.tests.PracticeTestAutomationTests@5f058f00]" started-at="2026-10-23T11:24:07 HKT" name="homePageCanBeScrolledToTheEnd" description="Open Home and scroll to the bottom of the page" finished-at="2026-10-23T11:24:11 HKT" duration-ms="3710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageCanBeScrolledToTheEnd -->
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:com.practicetestautomation.tests.PracticeTestAutomationTests@5f058f00]" started-at="2026-10-23T11:24:11 HKT" name="stopBrowser" finished-at="2026-10-23T11:24:11 HKT" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.practicetestautomation.tests.PracticeTestAutomationTests@5f058f00]" started-at="2026-10-23T11:24:11 HKT" name="startBrowser" finished-at="2026-10-23T11:24:13 HKT" duration-ms="1611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="javaFilterShowsOnlyJavaCourses()[pri:0, instance:com.practicetestautomation.tests.PracticeTestAutomationTests@5f058f00]" started-at="2026-10-23T11:24:13 HKT" name="javaFilterShowsOnlyJavaCourses" description="Filter the Test Table courses to Java only" finished-at="2026-10-23T11:24:16 HKT" duration-ms="3518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javaFilterShowsOnlyJavaCourses -->
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:com.practicetestautomation.tests.PracticeTestAutomationTests@5f058f00]" started-at="2026-10-23T11:24:16 HKT" name="stopBrowser" finished-at="2026-10-23T11:24:17 HKT" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.practicetestautomation.tests.PracticeTestAutomationTests@5f058f00]" started-at="2026-10-23T11:24:17 HKT" name="startBrowser" finished-at="2026-10-23T11:24:18 HKT" duration-ms="1368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="loginWorksFromPracticeTestLoginLink()[pri:0, instance:com.practicetestautomation.tests.PracticeTestAutomationTests@5f058f00]" started-at="2026-10-23T11:24:18 HKT" name="loginWorksFromPracticeTestLoginLink" description="Open Practice, follow Test Login Page, and log in" finished-at="2026-10-23T11:24:23 HKT" duration-ms="4501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWorksFromPracticeTestLoginLink -->
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:com.practicetestautomation.tests.PracticeTestAutomationTests@5f058f00]" started-at="2026-10-23T11:24:23 HKT" name="stopBrowser" finished-at="2026-10-23T11:24:23 HKT" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.practicetestautomation.tests.PracticeTestAutomationTests@5f058f00]" started-at="2026-10-23T11:24:23 HKT" name="startBrowser" finished-at="2026-10-23T11:24:24 HKT" duration-ms="1257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="validLoginSucceeds()[pri:0, instance:com.practicetestautomation.tests.PracticeTestAutomationTests@5f058f00]" started-at="2026-10-23T11:24:24 HKT" name="validLoginSucceeds" description="Log in with the valid student credentials" finished-at="2026-10-23T11:24:28 HKT" duration-ms="3580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginSucceeds -->
+        <test-method is-config="true" signature="stopBrowser()[pri:0, instance:com.practicetestautomation.tests.PracticeTestAutomationTests@5f058f00]" started-at="2026-10-23T11:24:28 HKT" name="stopBrowser" finished-at="2026-10-23T11:24:28 HKT" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopBrowser -->
+      </class> <!-- com.practicetestautomation.tests.PracticeTestAutomationTests -->
+    </test> <!-- Website practice scenarios -->
+  </suite> <!-- Practice Test Automation -->
+</testng-results>

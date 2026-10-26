@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Practice Test Automation]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Website practice scenarios(failed)" verbose="0">
+    <classes>
+      <class name="com.practicetestautomation.tests.PracticeTestAutomationTests">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="stopBrowser"/>
+          <include name="javaFilterShowsOnlyJavaCourses"/>
+        </methods>
+      </class> <!-- com.practicetestautomation.tests.PracticeTestAutomationTests -->
+    </classes>
+  </test> <!-- Website practice scenarios(failed) -->
+</suite> <!-- Failed suite [Practice Test Automation] -->
